@@ -1,1 +1,3 @@
 # E-commerce-website-using-Wordpress
+Gadget Shop is a WordPress-based e-commerce website built with Elementor and WooCommerce, offering a variety of tech accessories like phone covers, headphones, earbuds, and chargers. The site features a responsive design, product categorization, and customer account management. Essential plugins like Yoast SEO and WP Rocket enhance SEO and performance. This project demonstrates a fully functional online store with smooth navigation and product management. Future improvements may include AI recommendations and multi-language support. Explore the repository for setup instructions and customization details.
+Here is the link to my website :https://amnazahid.mymobiles.us/
